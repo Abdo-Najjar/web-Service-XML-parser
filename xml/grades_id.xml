@@ -1,0 +1,209 @@
+<students>
+
+    <!-- student1 -->
+    <student>
+        <id>1</id>
+        <number>123456</number>
+        <year>2016</year>
+
+        <semesters>
+
+            <semester>
+                <id>1</id>
+
+                <courses>
+                    <course>
+                        <id>1</id>
+                        <name>java</name>
+                        <grade>52</grade>
+                    </course>
+
+                    <course>
+                        <id>2</id>
+                        <name>SQA</name>
+                        <grade>80</grade>
+
+                    </course>
+
+                    <course>
+                        <id>3</id>
+                        <name>PHP</name>
+                        <grade>54</grade>
+
+                    </course>
+
+                </courses>
+
+            </semester>
+
+            <semester>
+                <id>2</id>
+
+                <courses>
+                    <course>
+                        <id>4</id>
+                        <name>ws</name>
+                        <grade>45</grade>
+                    </course>
+
+                    <course>
+                        <id>5</id>
+                        <name>Security</name>
+                        <grade>99</grade>
+
+                    </course>
+
+                    <course>
+                        <id>6</id>
+                        <name>requirments Enginnering</name>
+                        <grade>45</grade>
+
+                    </course>
+
+                </courses>
+
+            </semester>
+
+
+        </semesters>
+    </student>
+
+
+    <!-- studnet2 -->
+    <!-- <student>
+        <id>2</id>
+        <number>123789</number>
+        <year>2017</year>
+
+        <semesters>
+
+            <semester>
+                <id>1</id>
+
+                <courses>
+                    <course>
+                        <id>1</id>
+                        <name>java</name>
+                        <grade>95</grade>
+                    </course>
+
+                    <course>
+                        <id>2</id>
+                        <name>SQA</name>
+                        <grade>85</grade>
+
+                    </course>
+
+                    <course>
+                        <id>3</id>
+                        <name>PHP</name>
+                        <grade>99</grade>
+
+                    </course>
+
+                </courses>
+
+            </semester>
+
+            <semester>
+                <id>2</id>
+
+                <courses>
+                    <course>
+                        <id>4</id>
+                        <name>ws</name>
+                        <grade>98</grade>
+                    </course>
+
+                    <course>
+                        <id>5</id>
+                        <name>Security</name>
+                        <grade>95</grade>
+
+                    </course>
+
+                    <course>
+                        <id>6</id>
+                        <name>requirments Enginnering</name>
+                        <grade>92</grade>
+
+                    </course>
+
+                </courses>
+
+            </semester>
+
+
+        </semesters>
+    </student>
+
+
+    <student>
+            <id>3</id>
+            <number>123852</number>
+            <year>2018</year>
+    
+            <semesters>
+    
+                <semester>
+                    <id>1</id>
+    
+                    <courses>
+                        <course>
+                            <id>1</id>
+                            <name>java</name>
+                            <grade>92</grade>
+                        </course>
+    
+                        <course>
+                            <id>2</id>
+                            <name>SQA</name>
+                            <grade>81</grade>
+    
+                        </course>
+    
+                        <course>
+                            <id>3</id>
+                            <name>PHP</name>
+                            <grade>92</grade>
+    
+                        </course>
+    
+                    </courses>
+    
+                </semester>
+    
+                <semester>
+                    <id>2</id>
+    
+                    <courses>
+                        <course>
+                            <id>4</id>
+                            <name>ws</name>
+                            <grade>91</grade>
+                        </course>
+    
+                        <course>
+                            <id>5</id>
+                            <name>Security</name>
+                            <grade>89</grade>
+    
+                        </course>
+    
+                        <course>
+                            <id>6</id>
+                            <name>requirments Enginnering</name>
+                            <grade>80</grade>
+    
+                        </course>
+    
+                    </courses>
+    
+                </semester>
+    
+    
+            </semesters>
+        </student>
+     -->
+
+</students>
