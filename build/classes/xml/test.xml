@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student>
+        <id>1</id>
+        <firstName>Abdullah</firstName>
+        <fatherName>Wael</fatherName>
+        <lastName>Najjar</lastName>
+        <number>05595525</number>
+        <year>2015</year>
+        <requiredAmount>requiredAmount</requiredAmount>
+        <amountPaid>amountPaid</amountPaid>
+        <amountRemind>amountRemind</amountRemind>
+        <semesters/>
+        <studyInformation/>
+        <address/>
+    </student>
+</students>

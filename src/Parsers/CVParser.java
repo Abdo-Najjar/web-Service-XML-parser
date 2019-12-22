@@ -9,7 +9,6 @@ import Subjects.Address;
 import Subjects.Entity;
 import Subjects.StudentCV;
 import Subjects.StudyInformation;
-import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
@@ -26,7 +25,7 @@ public class CVParser extends Parser {
 
     public CVParser() {
 
-        CVParser.this.setFilePath("xml"+File.separator+"cv_id.xml");
+        CVParser.this.setFilePath("./src/xml/cv_id.xml");
     }
 
     @Override

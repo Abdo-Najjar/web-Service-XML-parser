@@ -1,0 +1,37 @@
+
+<students>
+   
+     <student>
+       <id>1</id>
+        <number>123456</number>
+        <year>2019</year>
+        <semester>1</semester>
+        <requiredAmount>300</requiredAmount>
+        <amountPaid>200</amountPaid>
+        <amountRemind>100</amountRemind>
+     </student>
+
+
+   <student>
+        <id>2</id>
+         <number>123789</number>
+         <year>2016</year>
+         <semester>2</semester>
+         <requiredAmount>350</requiredAmount>
+         <amountPaid>350</amountPaid>
+         <amountRemind>4545</amountRemind>
+    </student>
+    <student>
+            <id>3</id>
+             <number>123852</number>
+             <year>2019</year>
+             <semester>1</semester>
+             <requiredAmount>200</requiredAmount>
+             <amountPaid>150</amountPaid>
+             <amountRemind>50</amountRemind>
+        </student>
+      
+
+
+
+</students>

@@ -1,0 +1,84 @@
+<students>  
+
+    <!-- student1 -->
+    <student>
+
+        <id>1</id>
+        <firstName>Abdullah</firstName>
+        <fatherName>Wael</fatherName>
+        <lastName>Najjar</lastName>
+
+        <address>
+
+            <street>Elhar street</street>
+            <city>Rafah</city>
+            <country>Palestine</country>
+            <email>raf7awe.overlord@gamil.com</email>
+
+        </address>
+
+        <studyInformation>
+
+            <major>Information Technology</major>
+            <department>Software Enginnering </department>
+            <college>IUG</college>
+            <studyLevel>4</studyLevel>
+            
+        </studyInformation>
+
+    </student>
+
+    <!-- student2 -->
+    <student>
+        <id>2</id>
+        <firstName>Abdalmohsen</firstName>
+        <fatherName>Jammal</fatherName>
+        <lastName>Abu Ghali</lastName>
+
+        <address>
+            <street>Gate street</street>
+            <city>berlien</city>
+            <country>Germany</country>
+            <email>Abd@abd.com</email>
+        </address>
+
+        <studyInformation>
+
+            <major>Information Technology</major>
+            <department>Software Enginnering </department>
+            <college>IUG</college>
+            <studyLevel>4</studyLevel>
+
+        </studyInformation>
+    </student>
+
+
+    <!-- student3 -->
+    <student>
+
+        <id>3</id>
+        <firstName>Hussion</firstName>
+        <fatherName>Neyaba</fatherName>
+        <lastName>abu abbed</lastName>
+
+        <address>
+
+            <street>asdsad</street>
+            <city>asdsad</city>
+            <country>asdsadsda</country>
+            <email>asdsadsa</email>
+
+        </address>
+        
+        <studyInformation>
+
+            <major>Information Technology</major>
+            <department>Software Enginnering </department>
+            <college>IUG</college>
+            <studyLevel>4</studyLevel>
+
+        </studyInformation>
+    </student>
+
+
+</students>

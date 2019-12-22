@@ -10,7 +10,6 @@ package Subjects;
  * @author abdo
  */
 public class StudyInformation {
- 
     
      private String major;
      private String department;

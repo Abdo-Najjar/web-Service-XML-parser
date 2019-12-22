@@ -1,8 +1,8 @@
 package Main;
 
-import Parsers.FinancialParser;
-import Parsers.GradeParser;
-import Parsers.Parser;
+import Parsers.CVParser;
+import Subjects.StudentCV;
+
 
 
 /**
@@ -16,17 +16,17 @@ public class Main {
      */
     public static void main(String[] args) {
         
-       Parser cvp = new GradeParser();
-       
-       
-          cvp.read().forEach((t) -> {
+        Parsers.Parser studentPrintWriter = new CVParser();
+        
+        StudentCV studentCV =   (StudentCV) studentPrintWriter.read().get(0);
+        
+        String sCv = studentCV.toString();
+        
+        for (int i = 0; i <sCv.length(); i++) {
             
-              
-              System.out.println(t);
-          });
-          
-        
-        
+           
+            
+        }
     }
 
 }

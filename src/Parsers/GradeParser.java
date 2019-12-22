@@ -4,7 +4,6 @@ import Subjects.Course;
 import Subjects.Entity;
 import Subjects.Semester;
 import Subjects.StudentGrade;
-import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
@@ -20,7 +19,7 @@ import org.xml.sax.SAXException;
 public class GradeParser extends Parser {
 
     public GradeParser() {
-        GradeParser.this.setFilePath("xml" + File.separator + "grades_id.xml");
+        GradeParser.this.setFilePath("./src/xml/grades_id.xml");
     }
 
     @Override

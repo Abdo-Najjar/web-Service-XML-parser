@@ -23,7 +23,7 @@ import org.xml.sax.SAXException;
 public class FinancialParser extends Parser {
 
     public FinancialParser() {
-        FinancialParser.this.setFilePath("xml" + File.separator + "financial_id.xml");
+        FinancialParser.this.setFilePath("./src/xml/financial_id.xml");
 
     }
 

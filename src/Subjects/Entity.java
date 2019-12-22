@@ -8,7 +8,7 @@ package Subjects;
 /**
  *
  * @author abdo
- */
+ */ 
 public class Entity {
         
     private long id;

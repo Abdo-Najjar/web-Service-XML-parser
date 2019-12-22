@@ -70,13 +70,13 @@
 
 
     <!-- studnet2 -->
-    <!-- <student>
+    <student>
         <id>2</id>
         <number>123789</number>
         <year>2017</year>
 
         <semesters>
-
+        
             <semester>
                 <id>1</id>
 
@@ -204,6 +204,6 @@
     
             </semesters>
         </student>
-     -->
+     
 
 </students>
